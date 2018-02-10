@@ -7,4 +7,4 @@ saved_models/weights.best.vgg16.hdf5
 bottleneck_features/DogVGG16Data.npz
 __MACOSX
 dog-project-rubric.pdf
-
+__pycache__/
